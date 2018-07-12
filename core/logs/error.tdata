@@ -1,0 +1,1444 @@
+[11-Jul-2018 17:02:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function detectInstaller() in /var/www/html/rnd/test1/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/rnd/test1/index.php on line 19
+[11-Jul-2018 17:02:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function detectInstaller() in /var/www/html/rnd/test1/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/rnd/test1/index.php on line 19
+[11-Jul-2018 17:02:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function detectInstaller() in /var/www/html/rnd/test1/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/rnd/test1/index.php on line 19
+[11-Jul-2018 17:02:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function detectInstaller() in /var/www/html/rnd/test1/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/rnd/test1/index.php on line 19
+[11-Jul-2018 17:02:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function detectInstaller() in /var/www/html/rnd/test1/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/rnd/test1/index.php on line 19
+[11-Jul-2018 17:02:14 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function installMySQLdb() in /var/www/html/rnd/test1/admin/install/finish.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/rnd/test1/admin/install/finish.php on line 38
+[11-Jul-2018 17:02:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function installMySQLdb() in /var/www/html/rnd/test1/admin/install/finish.php:38
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/rnd/test1/admin/install/finish.php on line 38
+[11-Jul-2018 17:03:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function detectInstaller() in /var/www/html/rnd/test1/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/rnd/test1/index.php on line 19
+[11-Jul-2018 17:03:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function detectInstaller() in /var/www/html/rnd/test1/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/rnd/test1/index.php on line 20
+[11-Jul-2018 17:03:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(27): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:03:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(27): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:03:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(28): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:33:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:34:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:34:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:34:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:34:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:34:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:34:28 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:34:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:34:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:35:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/admin/app.php:20
+Stack trace:
+#0 /var/www/html/rnd/test1/admin/index.php(48): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/admin/app.php on line 20
+[11-Jul-2018 17:35:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/admin/app.php:20
+Stack trace:
+#0 /var/www/html/rnd/test1/admin/index.php(48): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/admin/app.php on line 20
+[11-Jul-2018 17:36:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:36:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(29): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:36:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(29): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:36:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(29): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 23
+[11-Jul-2018 17:37:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 17:37:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 17:37:38 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 17:39:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 17:39:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 17:40:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 17:40:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 17:40:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 17:40:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 17:40:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 17:41:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 17:42:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 17:42:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 17:42:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 17:42:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:28
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 28
+[11-Jul-2018 17:42:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:28
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 28
+[11-Jul-2018 17:42:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 17:42:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 17:43:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 17:43:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 17:43:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 17:43:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 17:43:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 17:43:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 17:43:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 17:43:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 17:43:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 17:44:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 17:44:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 18:04:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/admin/app.php:20
+Stack trace:
+#0 /var/www/html/rnd/test1/admin/index.php(48): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/admin/app.php on line 20
+[11-Jul-2018 18:07:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/admin/app.php:20
+Stack trace:
+#0 /var/www/html/rnd/test1/admin/index.php(48): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/admin/app.php on line 20
+[11-Jul-2018 18:07:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:29
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 29
+[11-Jul-2018 18:07:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 18:08:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 18:08:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 18:08:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 18:08:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 18:09:10 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilterX() in /var/www/html/rnd/test1/core/app.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(30): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 22
+[11-Jul-2018 18:09:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/rnd/test1/index.php on line 19
+[11-Jul-2018 18:10:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/rnd/test1/index.php on line 19
+[11-Jul-2018 18:10:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/rnd/test1/index.php on line 19
+[11-Jul-2018 18:10:22 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/rnd/test1/index.php on line 19
+[11-Jul-2018 18:10:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function shortCodeFilter() in /var/www/html/rnd/test1/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/rnd/test1/index.php on line 19
+[11-Jul-2018 18:10:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:27
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(32): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 27
+[11-Jul-2018 18:11:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dbStrToArr() in /var/www/html/rnd/test1/core/app.php:28
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(32): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 28
+[11-Jul-2018 18:11:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function ddosCheck() in /var/www/html/rnd/test1/core/app.php:39
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(32): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 39
+[11-Jul-2018 18:12:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function ddosCheck() in /var/www/html/rnd/test1/core/app.php:39
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(32): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 39
+[11-Jul-2018 18:15:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function isSelected() in /var/www/html/rnd/test1/core/helpers/extended_helper.php:64
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(94): getThemeOptions(Object(mysqli), 'default', 'http://localhos...')
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/helpers/extended_helper.php on line 64
+[11-Jul-2018 18:16:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function getLang() in /var/www/html/rnd/test1/core/app.php:105
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(32): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 105
+[11-Jul-2018 18:18:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function createLink() in /var/www/html/rnd/test1/core/app.php:123
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(32): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 123
+[11-Jul-2018 18:19:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function decSerBase() in /var/www/html/rnd/test1/core/controllers/main.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(142): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/main.php on line 22
+[11-Jul-2018 18:20:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function getMenuBarLinks() in /var/www/html/rnd/test1/core/app.php:159
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(32): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/app.php on line 159
+[11-Jul-2018 18:21:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /var/www/html/rnd/test1/core/helpers/interface_helper.php:34
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(163): makeLoginNav(true, 'http://localhos...', Array)
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/helpers/interface_helper.php on line 34
+[11-Jul-2018 18:21:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /var/www/html/rnd/test1/core/helpers/interface_helper.php:34
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(163): makeLoginNav(true, 'http://localhos...', Array)
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/helpers/interface_helper.php on line 34
+[11-Jul-2018 18:21:18 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /var/www/html/rnd/test1/core/helpers/interface_helper.php:34
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(163): makeLoginNav(true, 'http://localhos...', Array)
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/helpers/interface_helper.php on line 34
+[11-Jul-2018 18:22:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function genCanonicalData() in /var/www/html/rnd/test1/theme/default/header.php:39
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(35): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/theme/default/header.php on line 39
+[11-Jul-2018 18:22:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function genCanonicalData() in /var/www/html/rnd/test1/theme/default/header.php:39
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(35): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/theme/default/header.php on line 39
+[11-Jul-2018 18:24:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function genCanonicalData() in /var/www/html/rnd/test1/theme/default/header.php:39
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(35): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/theme/default/header.php on line 39
+[11-Jul-2018 18:26:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function genCanonicalData() in /var/www/html/rnd/test1/theme/default/header.php:39
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(35): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/theme/default/header.php on line 39
+[11-Jul-2018 18:26:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function genCanonicalData() in /var/www/html/rnd/test1/theme/default/header.php:39
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(35): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/theme/default/header.php on line 39
+[11-Jul-2018 18:27:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function genCanonicalData() in /var/www/html/rnd/test1/theme/default/header.php:39
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(35): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/theme/default/header.php on line 39
+[11-Jul-2018 18:27:50 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function themeLink() in /var/www/html/rnd/test1/theme/default/header.php:42
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(35): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/theme/default/header.php on line 42
+[11-Jul-2018 18:27:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function themeLink() in /var/www/html/rnd/test1/theme/default/header.php:42
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(35): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/theme/default/header.php on line 42
+[11-Jul-2018 18:27:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function themeLink() in /var/www/html/rnd/test1/theme/default/header.php:42
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(35): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/theme/default/header.php on line 42
+[11-Jul-2018 18:28:47 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function htmlPrint() in /var/www/html/rnd/test1/theme/default/header.php:158
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(35): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/theme/default/header.php on line 158
+[11-Jul-2018 18:28:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function htmlPrint() in /var/www/html/rnd/test1/theme/default/header.php:158
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(35): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/theme/default/header.php on line 158
+[11-Jul-2018 18:48:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function ddosCheck() in /var/www/html/rnd/test1/admin/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/admin/index.php(48): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/admin/app.php on line 23
+[11-Jul-2018 18:48:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function ddosCheck() in /var/www/html/rnd/test1/admin/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/admin/index.php(48): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/admin/app.php on line 23
+[11-Jul-2018 18:53:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function ddosCheck() in /var/www/html/rnd/test1/admin/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/admin/index.php(48): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/admin/app.php on line 23
+[11-Jul-2018 18:53:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function ddosCheck() in /var/www/html/rnd/test1/admin/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/admin/index.php(48): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/admin/app.php on line 23
+[11-Jul-2018 18:53:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function ddosCheck() in /var/www/html/rnd/test1/admin/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/admin/index.php(48): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/admin/app.php on line 23
+[11-Jul-2018 18:54:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function ddosCheck() in /var/www/html/rnd/test1/admin/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/admin/index.php(48): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/admin/app.php on line 23
+[11-Jul-2018 19:01:03 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'bootpagination' not found in /var/www/html/rnd/test1/core/controllers/recent.php:30
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/recent.php on line 30
+[11-Jul-2018 19:01:43 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'bootpagination' not found in /var/www/html/rnd/test1/core/controllers/recent.php:30
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/recent.php on line 30
+[11-Jul-2018 19:01:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'bootpagination' not found in /var/www/html/rnd/test1/core/controllers/recent.php:30
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/recent.php on line 30
+[11-Jul-2018 19:01:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'bootpagination' not found in /var/www/html/rnd/test1/core/controllers/recent.php:30
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/recent.php on line 30
+[11-Jul-2018 19:01:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'bootpagination' not found in /var/www/html/rnd/test1/core/controllers/recent.php:30
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/recent.php on line 30
+[11-Jul-2018 19:01:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'bootpagination' not found in /var/www/html/rnd/test1/core/controllers/recent.php:30
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/recent.php on line 30
+[11-Jul-2018 19:02:00 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:02:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:02:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function loadCapthca() in /var/www/html/rnd/test1/core/controllers/site-vs-site.php:15
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/site-vs-site.php on line 15
+[11-Jul-2018 19:02:09 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:02:09 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:02:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function ddosCheck() in /var/www/html/rnd/test1/admin/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/admin/index.php(48): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/admin/app.php on line 23
+[11-Jul-2018 19:02:18 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:02:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:02:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'bootpagination' not found in /var/www/html/rnd/test1/core/controllers/recent.php:30
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/recent.php on line 30
+[11-Jul-2018 19:02:29 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:02:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:02:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function loadCapthca() in /var/www/html/rnd/test1/core/controllers/contact.php:16
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/contact.php on line 16
+[11-Jul-2018 19:03:03 Asia/Calcutta] PHP Notice:  A non well formed numeric value encountered in /var/www/html/rnd/test1/core/helpers/cap_helper.php on line 89
+[11-Jul-2018 19:03:04 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:03:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:03:10 Asia/Calcutta] PHP Notice:  A non well formed numeric value encountered in /var/www/html/rnd/test1/core/helpers/cap_helper.php on line 89
+[11-Jul-2018 19:03:29 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:03:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:03:34 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:03:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:03:43 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:03:44 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:03:44 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:03:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:94
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 94
+[11-Jul-2018 19:03:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:04:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:04:12 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:04:12 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:04:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:94
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 94
+[11-Jul-2018 19:04:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:04:15 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:05:30 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:05:30 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:05:30 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:05:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:94
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 94
+[11-Jul-2018 19:05:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:07:44 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:07:44 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:07:44 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:07:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:94
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 94
+[11-Jul-2018 19:07:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:07:54 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:07:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:08:05 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:08:06 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:08:06 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:08:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:94
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 94
+[11-Jul-2018 19:08:06 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:08:29 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:08:29 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:08:29 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:08:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:94
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 94
+[11-Jul-2018 19:08:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:08:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:218
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 218
+[11-Jul-2018 19:08:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:326
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 326
+[11-Jul-2018 19:08:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'KD' not found in /var/www/html/rnd/test1/core/controllers/domains.php:379
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 379
+[11-Jul-2018 19:08:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:94
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 94
+[11-Jul-2018 19:08:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function calTextRatio() in /var/www/html/rnd/test1/core/controllers/domains.php:543
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 543
+[11-Jul-2018 19:08:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function size_as_kb() in /var/www/html/rnd/test1/core/controllers/domains.php:615
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 615
+[11-Jul-2018 19:08:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:660
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 660
+[11-Jul-2018 19:08:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:729
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 729
+[11-Jul-2018 19:08:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:786
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 786
+[11-Jul-2018 19:08:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:786
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 786
+[11-Jul-2018 19:08:33 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'whois' not found in /var/www/html/rnd/test1/core/controllers/domains.php:1277
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1277
+[11-Jul-2018 19:08:33 Asia/Calcutta] PHP Notice:  Undefined index: cursor in /var/www/html/rnd/test1/core/helpers/google_index_helper.php on line 25
+[11-Jul-2018 19:08:34 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 37
+[11-Jul-2018 19:08:34 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:2268
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 2268
+[11-Jul-2018 19:08:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:1605
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1605
+[11-Jul-2018 19:08:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:2479
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 2479
+[11-Jul-2018 19:08:36 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'domainAvailability' not found in /var/www/html/rnd/test1/core/controllers/domains.php:1710
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1710
+[11-Jul-2018 19:08:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:1402
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1402
+[11-Jul-2018 19:08:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:1894
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1894
+[11-Jul-2018 19:08:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:1975
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1975
+[11-Jul-2018 19:08:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:2084
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 2084
+[11-Jul-2018 19:08:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'socialCount' not found in /var/www/html/rnd/test1/core/controllers/domains.php:2355
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 2355
+[11-Jul-2018 19:08:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 59
+[11-Jul-2018 19:08:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/functions.php on line 333
+[11-Jul-2018 19:08:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/functions.php on line 333
+[11-Jul-2018 19:08:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/functions.php on line 333
+[11-Jul-2018 19:08:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 82
+[11-Jul-2018 19:08:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:08:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:08:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:08:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 90
+[11-Jul-2018 19:08:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:08:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:08:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:08:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:2407
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 2407
+[11-Jul-2018 19:08:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function serBase() in /var/www/html/rnd/test1/core/controllers/domains.php:2657
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 2657
+[11-Jul-2018 19:09:18 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:09:19 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:09:19 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:09:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:09:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'KD' not found in /var/www/html/rnd/test1/core/controllers/domains.php:379
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 379
+[11-Jul-2018 19:09:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'KD' not found in /var/www/html/rnd/test1/core/controllers/domains.php:379
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 379
+[11-Jul-2018 19:09:19 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function calTextRatio() in /var/www/html/rnd/test1/core/controllers/domains.php:543
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 543
+[11-Jul-2018 19:09:20 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function size_as_kb() in /var/www/html/rnd/test1/core/controllers/domains.php:615
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 615
+[11-Jul-2018 19:09:23 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'whois' not found in /var/www/html/rnd/test1/core/controllers/domains.php:1277
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1277
+[11-Jul-2018 19:09:23 Asia/Calcutta] PHP Notice:  Undefined index: cursor in /var/www/html/rnd/test1/core/helpers/google_index_helper.php on line 25
+[11-Jul-2018 19:09:24 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 37
+[11-Jul-2018 19:09:24 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function calPrice() in /var/www/html/rnd/test1/core/controllers/domains.php:2300
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 2300
+[11-Jul-2018 19:09:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function size_as_kb() in /var/www/html/rnd/test1/core/controllers/domains.php:1608
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1608
+[11-Jul-2018 19:09:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'domainAvailability' not found in /var/www/html/rnd/test1/core/controllers/domains.php:1710
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1710
+[11-Jul-2018 19:09:54 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'socialCount' not found in /var/www/html/rnd/test1/core/controllers/domains.php:2355
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 2355
+[11-Jul-2018 19:09:54 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 59
+[11-Jul-2018 19:09:54 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/functions.php on line 333
+[11-Jul-2018 19:09:54 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/functions.php on line 333
+[11-Jul-2018 19:09:54 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/functions.php on line 333
+[11-Jul-2018 19:09:54 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 82
+[11-Jul-2018 19:09:54 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:09:54 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:09:54 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:09:54 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 90
+[11-Jul-2018 19:09:54 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:09:54 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:09:54 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:09:58 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 249
+[11-Jul-2018 19:09:58 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 274
+[11-Jul-2018 19:09:58 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 743
+[11-Jul-2018 19:09:58 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function size_as_kb() in /var/www/html/rnd/test1/core/controllers/db-domain.php:1101
+Stack trace:
+#0 /var/www/html/rnd/test1/core/controllers/domain.php(242): require()
+#1 /var/www/html/rnd/test1/core/app.php(147): require('/var/www/html/r...')
+#2 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#3 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1101
+[11-Jul-2018 19:10:12 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 249
+[11-Jul-2018 19:10:12 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 274
+[11-Jul-2018 19:10:12 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 743
+[11-Jul-2018 19:10:12 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1172
+[11-Jul-2018 19:10:12 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1193
+[11-Jul-2018 19:10:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function calPrice() in /var/www/html/rnd/test1/core/controllers/db-domain.php:1582
+Stack trace:
+#0 /var/www/html/rnd/test1/core/controllers/domain.php(242): require()
+#1 /var/www/html/rnd/test1/core/app.php(147): require('/var/www/html/r...')
+#2 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#3 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1582
+[11-Jul-2018 19:10:30 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 249
+[11-Jul-2018 19:10:30 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 274
+[11-Jul-2018 19:10:30 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1172
+[11-Jul-2018 19:10:30 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1193
+[11-Jul-2018 19:10:30 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1624
+[11-Jul-2018 19:10:30 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1625
+[11-Jul-2018 19:10:30 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1626
+[11-Jul-2018 19:10:30 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1627
+[11-Jul-2018 19:10:31 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:10:31 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:10:31 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:10:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:10:45 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:10:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:10:52 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 249
+[11-Jul-2018 19:10:52 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 274
+[11-Jul-2018 19:10:52 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1172
+[11-Jul-2018 19:10:52 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1193
+[11-Jul-2018 19:10:52 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1624
+[11-Jul-2018 19:10:52 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1625
+[11-Jul-2018 19:10:52 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1626
+[11-Jul-2018 19:10:52 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1627
+[11-Jul-2018 19:10:52 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:10:53 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:10:53 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:10:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:137
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 137
+[11-Jul-2018 19:11:33 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 249
+[11-Jul-2018 19:11:33 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 274
+[11-Jul-2018 19:11:33 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1172
+[11-Jul-2018 19:11:33 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1193
+[11-Jul-2018 19:11:33 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1624
+[11-Jul-2018 19:11:33 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1625
+[11-Jul-2018 19:11:33 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1626
+[11-Jul-2018 19:11:33 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1627
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 249
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 274
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1172
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1193
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1624
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1625
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1626
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1627
+[11-Jul-2018 19:11:34 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 249
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 274
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1172
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1193
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1624
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1625
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1626
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1627
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 249
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 274
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1172
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1193
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1624
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1625
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1626
+[11-Jul-2018 19:11:34 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1627
+[11-Jul-2018 19:11:35 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:11:35 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:11:35 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:12:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function arrToDbStr() in /var/www/html/rnd/test1/core/controllers/track.php:77
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/track.php on line 77
+[11-Jul-2018 19:12:49 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 249
+[11-Jul-2018 19:12:49 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 274
+[11-Jul-2018 19:12:49 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1172
+[11-Jul-2018 19:12:49 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1193
+[11-Jul-2018 19:12:50 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1624
+[11-Jul-2018 19:12:50 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1625
+[11-Jul-2018 19:12:50 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1626
+[11-Jul-2018 19:12:50 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1627
+[11-Jul-2018 19:12:50 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:12:51 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:12:51 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:12:51 Asia/Calcutta] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /var/www/html/rnd/test1/core/helpers/extended_helper.php on line 334
+[11-Jul-2018 19:13:07 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 249
+[11-Jul-2018 19:13:07 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 274
+[11-Jul-2018 19:13:07 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1172
+[11-Jul-2018 19:13:07 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1193
+[11-Jul-2018 19:13:07 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1624
+[11-Jul-2018 19:13:07 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1625
+[11-Jul-2018 19:13:07 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1626
+[11-Jul-2018 19:13:07 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1627
+[11-Jul-2018 19:13:07 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:13:08 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:13:08 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:13:25 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 249
+[11-Jul-2018 19:13:25 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 274
+[11-Jul-2018 19:13:25 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1172
+[11-Jul-2018 19:13:25 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1193
+[11-Jul-2018 19:13:25 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1624
+[11-Jul-2018 19:13:25 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1625
+[11-Jul-2018 19:13:25 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1626
+[11-Jul-2018 19:13:25 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1627
+[11-Jul-2018 19:13:26 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:13:26 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:13:41 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:13:41 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:13:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'KD' not found in /var/www/html/rnd/test1/core/controllers/domains.php:379
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 379
+[11-Jul-2018 19:13:42 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'KD' not found in /var/www/html/rnd/test1/core/controllers/domains.php:379
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 379
+[11-Jul-2018 19:13:43 Asia/Calcutta] PHP Notice:  Undefined variable: ext_data in /var/www/html/rnd/test1/core/controllers/domains.php on line 926
+[11-Jul-2018 19:13:43 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/domains.php on line 926
+[11-Jul-2018 19:13:44 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'whois' not found in /var/www/html/rnd/test1/core/controllers/domains.php:1277
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1277
+[11-Jul-2018 19:13:45 Asia/Calcutta] PHP Notice:  Undefined index: cursor in /var/www/html/rnd/test1/core/helpers/google_index_helper.php on line 25
+[11-Jul-2018 19:13:45 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 14
+[11-Jul-2018 19:13:45 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 22
+[11-Jul-2018 19:13:46 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 37
+[11-Jul-2018 19:13:48 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'domainAvailability' not found in /var/www/html/rnd/test1/core/controllers/domains.php:1710
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1710
+[11-Jul-2018 19:13:50 Asia/Calcutta] PHP Notice:  Undefined variable: ext_data in /var/www/html/rnd/test1/core/controllers/domains.php on line 1051
+[11-Jul-2018 19:13:50 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/domains.php on line 1051
+[11-Jul-2018 19:14:02 Asia/Calcutta] PHP Notice:  Undefined offset: 0 in /var/www/html/rnd/test1/core/helpers/host_info_helper.php on line 22
+[11-Jul-2018 19:14:02 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/host_info_helper.php on line 23
+[11-Jul-2018 19:14:02 Asia/Calcutta] PHP Notice:  Undefined offset: 0 in /var/www/html/rnd/test1/core/helpers/host_info_helper.php on line 27
+[11-Jul-2018 19:14:02 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/host_info_helper.php on line 28
+[11-Jul-2018 19:14:02 Asia/Calcutta] PHP Notice:  Undefined offset: 0 in /var/www/html/rnd/test1/core/helpers/host_info_helper.php on line 32
+[11-Jul-2018 19:14:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'socialCount' not found in /var/www/html/rnd/test1/core/controllers/domains.php:2355
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 2355
+[11-Jul-2018 19:14:04 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 59
+[11-Jul-2018 19:14:04 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/functions.php on line 333
+[11-Jul-2018 19:14:04 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/functions.php on line 333
+[11-Jul-2018 19:14:04 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/functions.php on line 333
+[11-Jul-2018 19:14:04 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 82
+[11-Jul-2018 19:14:04 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:14:04 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:14:04 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:14:04 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 90
+[11-Jul-2018 19:14:04 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:14:04 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:14:04 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[11-Jul-2018 19:14:51 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 249
+[11-Jul-2018 19:14:51 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 274
+[11-Jul-2018 19:14:51 Asia/Calcutta] PHP Notice:  Undefined variable: ext_data in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 657
+[11-Jul-2018 19:14:51 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 657
+[11-Jul-2018 19:14:51 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1172
+[11-Jul-2018 19:14:51 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1193
+[11-Jul-2018 19:14:51 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1624
+[11-Jul-2018 19:14:51 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1625
+[11-Jul-2018 19:14:51 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1626
+[11-Jul-2018 19:14:51 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1627
+[11-Jul-2018 19:14:52 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:14:52 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[11-Jul-2018 19:21:00 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:21:20 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:21:22 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[11-Jul-2018 19:21:27 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 17:38:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'KD' not found in /var/www/html/rnd/test1/core/controllers/domains.php:379
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 379
+[12-Jul-2018 17:38:34 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 17:40:00 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 17:40:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'KD' not found in /var/www/html/rnd/test1/core/controllers/domains.php:379
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 379
+[12-Jul-2018 17:40:27 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 17:40:27 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'KD' not found in /var/www/html/rnd/test1/core/controllers/domains.php:379
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 379
+[12-Jul-2018 17:40:33 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 17:40:50 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 17:40:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'KD' not found in /var/www/html/rnd/test1/core/controllers/domains.php:379
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(32): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 379
+[12-Jul-2018 17:42:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'KD' not found in /var/www/html/rnd/test1/core/controllers/domains.php:379
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(34): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 379
+[12-Jul-2018 17:46:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /var/www/html/rnd/test1/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/rnd/test1/index.php on line 21
+[12-Jul-2018 17:47:50 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 17:47:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'whois' not found in /var/www/html/rnd/test1/core/controllers/domains.php:1279
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(37): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1279
+[12-Jul-2018 17:47:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'domainAvailability' not found in /var/www/html/rnd/test1/core/controllers/domains.php:1712
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(37): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1712
+[12-Jul-2018 17:48:17 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'socialCount' not found in /var/www/html/rnd/test1/core/controllers/domains.php:2357
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(37): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 2357
+[12-Jul-2018 17:48:51 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 17:48:59 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 17:49:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'whois' not found in /var/www/html/rnd/test1/core/controllers/domains.php:1279
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(37): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1279
+[12-Jul-2018 17:49:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'domainAvailability' not found in /var/www/html/rnd/test1/core/controllers/domains.php:1712
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(37): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1712
+[12-Jul-2018 17:50:12 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'socialCount' not found in /var/www/html/rnd/test1/core/controllers/domains.php:2357
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(37): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 2357
+[12-Jul-2018 18:03:09 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:03:16 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:03:25 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:03:35 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:11:35 Asia/Calcutta] PHP Fatal error:  Cannot redeclare themeLink() (previously declared in /var/www/html/rnd/test1/core/helpers/extended_helper.php:338) in /var/www/html/rnd/test1/core/helpers/interface_helper.php on line 159
+[12-Jul-2018 18:11:35 Asia/Calcutta] PHP Fatal error:  Cannot redeclare themeLink() (previously declared in /var/www/html/rnd/test1/core/helpers/extended_helper.php:338) in /var/www/html/rnd/test1/core/helpers/interface_helper.php on line 159
+[12-Jul-2018 18:12:06 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:13:26 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:13:34 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:13:53 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:13:58 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:14:28 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:14:35 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:15:32 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:15:35 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:16:13 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:16:21 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:26:24 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:26:28 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1172
+[12-Jul-2018 18:26:28 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1193
+[12-Jul-2018 18:26:28 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1624
+[12-Jul-2018 18:26:28 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1625
+[12-Jul-2018 18:26:28 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1626
+[12-Jul-2018 18:26:28 Asia/Calcutta] PHP Warning:  number_format() expects parameter 1 to be float, string given in /var/www/html/rnd/test1/core/controllers/db-domain.php on line 1627
+[12-Jul-2018 18:26:28 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:26:28 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 28
+[12-Jul-2018 18:26:28 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 28
+[12-Jul-2018 18:27:26 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:27:31 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:27:31 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 28
+[12-Jul-2018 18:27:31 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 28
+[12-Jul-2018 18:27:45 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 37
+[12-Jul-2018 18:27:53 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Class 'typos' not found in /var/www/html/rnd/test1/core/controllers/domains.php:1735
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(37): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/domains.php on line 1735
+[12-Jul-2018 18:28:29 Asia/Calcutta] PHP Notice:  Undefined offset: 0 in /var/www/html/rnd/test1/core/helpers/host_info_helper.php on line 22
+[12-Jul-2018 18:28:29 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/host_info_helper.php on line 23
+[12-Jul-2018 18:28:29 Asia/Calcutta] PHP Notice:  Undefined offset: 0 in /var/www/html/rnd/test1/core/helpers/host_info_helper.php on line 27
+[12-Jul-2018 18:28:29 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/host_info_helper.php on line 28
+[12-Jul-2018 18:28:29 Asia/Calcutta] PHP Notice:  Undefined offset: 0 in /var/www/html/rnd/test1/core/helpers/host_info_helper.php on line 32
+[12-Jul-2018 18:28:47 Asia/Calcutta] PHP Warning:  file_get_contents(): SSL: Success in /var/www/html/rnd/test1/core/functions.php on line 377
+[12-Jul-2018 18:28:47 Asia/Calcutta] PHP Warning:  file_get_contents(): Failed to enable crypto in /var/www/html/rnd/test1/core/functions.php on line 377
+[12-Jul-2018 18:28:47 Asia/Calcutta] PHP Warning:  file_get_contents(http://www.linkedin.com/countserv/count/share?url=http://radixweb.com&amp;format=json): failed to open stream: operation failed in /var/www/html/rnd/test1/core/functions.php on line 377
+[12-Jul-2018 18:28:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 59
+[12-Jul-2018 18:28:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/functions.php on line 333
+[12-Jul-2018 18:28:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/functions.php on line 333
+[12-Jul-2018 18:28:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/functions.php on line 333
+[12-Jul-2018 18:28:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 82
+[12-Jul-2018 18:28:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[12-Jul-2018 18:28:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[12-Jul-2018 18:28:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[12-Jul-2018 18:28:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 90
+[12-Jul-2018 18:28:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[12-Jul-2018 18:28:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[12-Jul-2018 18:28:49 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[12-Jul-2018 18:29:31 Asia/Calcutta] PHP Warning:  file_get_contents(/var/www/html/rnd/test1/core/temp/0840c82e0fd8fd26203949c15eed3b02.tdata): failed to open stream: No such file or directory in /var/www/html/rnd/test1/core/functions.php on line 377
+[12-Jul-2018 18:31:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function loadMailSettings() in /var/www/html/rnd/test1/core/controllers/account.php:22
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(37): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/account.php on line 22
+[12-Jul-2018 18:31:55 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function filBoolean() in /var/www/html/rnd/test1/core/controllers/account.php:30
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(37): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/account.php on line 30
+[12-Jul-2018 18:32:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function quickLoginCheck() in /var/www/html/rnd/test1/core/controllers/account.php:38
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(37): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/account.php on line 38
+[12-Jul-2018 18:32:45 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function getMailTemplates() in /var/www/html/rnd/test1/core/controllers/account.php:329
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(37): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/account.php on line 329
+[12-Jul-2018 18:32:57 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function quickLoginDisable() in /var/www/html/rnd/test1/core/controllers/account.php:378
+Stack trace:
+#0 /var/www/html/rnd/test1/core/app.php(147): require()
+#1 /var/www/html/rnd/test1/index.php(37): require('/var/www/html/r...')
+#2 {main}
+  thrown in /var/www/html/rnd/test1/core/controllers/account.php on line 378
+[12-Jul-2018 18:33:30 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:33:32 Asia/Calcutta] PHP Notice:  Undefined index: scode in /var/www/html/rnd/test1/core/library/verify-verification.php on line 12
+[12-Jul-2018 18:33:32 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:34:04 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:34:07 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:34:31 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:35:28 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function ddosCheck() in /var/www/html/rnd/test1/admin/app.php:23
+Stack trace:
+#0 /var/www/html/rnd/test1/admin/index.php(48): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/admin/app.php on line 23
+[12-Jul-2018 18:35:31 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:37:04 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:42:03 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:42:04 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 29
+[12-Jul-2018 18:42:04 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 29
+[12-Jul-2018 18:42:17 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 37
+[12-Jul-2018 18:42:24 Asia/Calcutta] PHP Notice:  Undefined offset: 8 in /var/www/html/rnd/test1/core/models/typos.php on line 22
+[12-Jul-2018 18:47:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /var/www/html/rnd/test1/core/functions.php:624
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(19): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/functions.php on line 624
+[12-Jul-2018 18:47:41 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /var/www/html/rnd/test1/core/functions.php:624
+Stack trace:
+#0 /var/www/html/rnd/test1/index.php(19): require()
+#1 {main}
+  thrown in /var/www/html/rnd/test1/core/functions.php on line 624
+[12-Jul-2018 18:52:42 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:52:50 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 18:53:09 Asia/Calcutta] PHP Warning:  alexaRank(): Node no longer exists in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 25
+[12-Jul-2018 18:53:09 Asia/Calcutta] PHP Warning:  alexaRank(): Node no longer exists in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 25
+[12-Jul-2018 18:53:09 Asia/Calcutta] PHP Warning:  alexaRank(): Node no longer exists in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 26
+[12-Jul-2018 18:53:09 Asia/Calcutta] PHP Warning:  alexaRank(): Node no longer exists in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 26
+[12-Jul-2018 18:53:10 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 37
+[12-Jul-2018 18:53:25 Asia/Calcutta] PHP Notice:  Undefined offset: 12 in /var/www/html/rnd/test1/core/models/typos.php on line 22
+[12-Jul-2018 18:53:25 Asia/Calcutta] PHP Notice:  Undefined index: - in /var/www/html/rnd/test1/core/models/typos.php on line 76
+[12-Jul-2018 18:53:25 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/models/typos.php on line 76
+[12-Jul-2018 19:03:23 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 19:10:43 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 19:11:23 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+
+[12-Jul-2018 19:11:23 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapAPI in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[12-Jul-2018 19:11:23 Asia/Calcutta] PHP Notice:  Undefined variable: customSnapLink in /var/www/html/rnd/test1/core/controllers/domains.php on line 23
+[12-Jul-2018 19:11:26 Asia/Calcutta] PHP Notice:  Undefined variable: keywords in /var/www/html/rnd/test1/core/models/kd.php on line 665
+[12-Jul-2018 19:11:26 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /var/www/html/rnd/test1/core/models/kd.php on line 665
+[12-Jul-2018 19:11:26 Asia/Calcutta] PHP Warning:  arsort() expects parameter 1 to be array, null given in /var/www/html/rnd/test1/core/models/kd.php on line 666
+[12-Jul-2018 19:11:26 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/models/kd.php on line 671
+[12-Jul-2018 19:11:28 Asia/Calcutta] PHP Notice:  Undefined variable: keywords in /var/www/html/rnd/test1/core/models/kd.php on line 665
+[12-Jul-2018 19:11:28 Asia/Calcutta] PHP Warning:  array_count_values() expects parameter 1 to be array, null given in /var/www/html/rnd/test1/core/models/kd.php on line 665
+[12-Jul-2018 19:11:28 Asia/Calcutta] PHP Warning:  arsort() expects parameter 1 to be array, null given in /var/www/html/rnd/test1/core/models/kd.php on line 666
+[12-Jul-2018 19:11:28 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/models/kd.php on line 671
+[12-Jul-2018 19:11:31 Asia/Calcutta] PHP Notice:  Undefined variable: int_data in /var/www/html/rnd/test1/core/controllers/domains.php on line 919
+[12-Jul-2018 19:11:31 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/domains.php on line 919
+[12-Jul-2018 19:11:31 Asia/Calcutta] PHP Notice:  Undefined variable: int_data in /var/www/html/rnd/test1/core/controllers/domains.php on line 1030
+[12-Jul-2018 19:11:31 Asia/Calcutta] PHP Warning:  Invalid argument supplied for foreach() in /var/www/html/rnd/test1/core/controllers/domains.php on line 1030
+[12-Jul-2018 19:11:37 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 37
+[12-Jul-2018 19:11:47 Asia/Calcutta] PHP Notice:  Undefined offset: 0 in /var/www/html/rnd/test1/core/helpers/host_info_helper.php on line 22
+[12-Jul-2018 19:11:47 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/host_info_helper.php on line 23
+[12-Jul-2018 19:11:47 Asia/Calcutta] PHP Notice:  Undefined offset: 0 in /var/www/html/rnd/test1/core/helpers/host_info_helper.php on line 27
+[12-Jul-2018 19:11:47 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/host_info_helper.php on line 28
+[12-Jul-2018 19:11:47 Asia/Calcutta] PHP Notice:  Undefined offset: 0 in /var/www/html/rnd/test1/core/helpers/host_info_helper.php on line 32
+[12-Jul-2018 19:12:05 Asia/Calcutta] PHP Warning:  file_get_contents(): SSL: Success in /var/www/html/rnd/test1/core/functions.php on line 377
+[12-Jul-2018 19:12:05 Asia/Calcutta] PHP Warning:  file_get_contents(): Failed to enable crypto in /var/www/html/rnd/test1/core/functions.php on line 377
+[12-Jul-2018 19:12:05 Asia/Calcutta] PHP Warning:  file_get_contents(http://www.linkedin.com/countserv/count/share?url=http://gmail.com&amp;format=json): failed to open stream: operation failed in /var/www/html/rnd/test1/core/functions.php on line 377
+[12-Jul-2018 19:12:07 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 59
+[12-Jul-2018 19:12:07 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/functions.php on line 333
+[12-Jul-2018 19:12:07 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/functions.php on line 333
+[12-Jul-2018 19:12:07 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/functions.php on line 333
+[12-Jul-2018 19:12:07 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 82
+[12-Jul-2018 19:12:07 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[12-Jul-2018 19:12:07 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[12-Jul-2018 19:12:07 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[12-Jul-2018 19:12:07 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 90
+[12-Jul-2018 19:12:07 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[12-Jul-2018 19:12:07 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[12-Jul-2018 19:12:07 Asia/Calcutta] PHP Notice:  Undefined offset: 1 in /var/www/html/rnd/test1/core/helpers/alexa_helper.php on line 52
+[12-Jul-2018 19:13:59 Asia/Calcutta] App Notice:  Controller File ("theme.php") Not Found | Request From ::1
+

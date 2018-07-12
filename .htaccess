@@ -1,0 +1,11 @@
+
+#RewriteBase /rnd/test1/
+#RewriteEngine On
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?route=$1 [QSA,L]
+#RewriteRule ^ index.php [L]
+
+RewriteRule ^/admin/(.*)$ /admin/index.php?route=$1 [QSA,L]
