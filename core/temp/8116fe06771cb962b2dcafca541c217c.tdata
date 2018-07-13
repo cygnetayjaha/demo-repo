@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex, nofollow">
+
+    <link rel="shortcut icon" href="http://controlcenter.local/assets/images/favicon.ico">
+
+    <title>    Login/Register :: FasTrax ControlCenter
+</title>
+
+    <link rel="stylesheet" href="/build/css/front-49b17ec14f.css">
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+
+    <div class="container">        
+        <div class="row">
+            <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,300italic,400italic,500,500italic,700,700italic,900' rel='stylesheet' type='text/css'>
+<link href='/assets/css/custom-design.css?v=1531297447' rel='stylesheet' type='text/css'>
+
+
+<style type="text/css">
+    .modal{ position: fixed; }
+</style>
+
+
+<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel">
+    <div class="modal-dialog w300" role="document">
+        <h1 class="logo-login"><a href="#" title="FTX Designer">FTX Designer</a></h1>
+        <div class="modal-content modal-sm">
+
+            
+            <form method="POST" action="http://controlcenter.local/login" accept-charset="UTF-8"><input name="_token" type="hidden" value="d65hVH0D20Jxg03pzf8GXj2wPXRZCV0DSWeqS7Jr">
+
+                <div class="modal-header">
+                    <h2 class="modal-title" id="loginModalLabel">LOGIN CREDENTIALS</h2>
+                                    </div>
+
+                <div class="modal-body">
+
+                    
+                                        <div class="row">
+                      <div class="col-md-12">
+                         <div class="form-group has-feedback mb">
+                             <input id="email" class="form-control" placeholder="Email/Username or Employee #" required autocomplete="off" autofocus="autofocus" name="email" type="text" value="">
+                             <span class="fas fa-envelope form-control-feedback text-muted"></span>
+                         </div>
+                         <div class="form-group has-feedback">
+                             <input id="password" class="form-control" placeholder="Your password" required autocomplete="off" name="password" type="password" value="">
+
+                            <span class="fas fa-lock form-control-feedback text-muted"></span>
+                         </div>
+
+                                        <div class="clearfix">
+                        <input id="checkbox-1" class="checkbox-custom" name="checkbox-1" type="checkbox">
+                        <label for="checkbox-1" class="checkbox-custom-label">Remember me</label>
+                    </div>
+                    
+                                        <div class="clearfix hide">
+                         <div class="checkbox c-checkbox mt0">
+                            <input name="remember" type="checkbox" value="1">
+                            <label for="remember">Remember me</label>
+                        </div>
+                    </div>
+                    
+                  </div>
+                  <div class="col-md-12">
+                     <input type="submit" class="btn btn-block btn-info mb" value="Login">
+                                       </div>
+               </div>
+            </div>
+            </form>
+        </div>
+
+                <div class="forgot text-center"><a id="forgot-password-link">Forgot your password?</a></div>
+            </div>
+</div>
+<div class="loader-Content">
+        <div class="loader-anim"></div>
+    </div>
+    <div class="modal fade" id="forgotModal" tabindex="-1" role="dialog" aria-labelledby="forgotModalLabel">
+    <div class="modal-dialog" role="document">
+        <h1 class="logo-login"><a href="#" title="FTX Designer">FTX Designer</a></h1>
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="forgotModalLabel">Password Recovery</h4>
+            </div>
+            <div class="modal-body">
+                                <form method="POST" action="http://controlcenter.local/password/email" accept-charset="UTF-8"><input name="_token" type="hidden" value="d65hVH0D20Jxg03pzf8GXj2wPXRZCV0DSWeqS7Jr">
+                <div class="row">
+                    <div class="col-md-8">
+                        <div class="form-group has-feedback" id="password-field">
+                            <input class="form-control" placeholder="E-mail Address" required autocomplete="off" name="email" type="email">
+                            <span class="fas fa-envelope form-control-feedback text-muted"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <input type="submit" value="Recover" class="btn btn-sm btn-success btn-block">
+                    </div>
+                </div>
+
+                </form>
+            </div>
+
+        </div>
+    </div>
+</div>    
+        </div>
+    </div>
+
+        <script src="/build/js/front-4cdc1a1a19.js"></script>
+
+    <script src="http://controlcenter.local/js/login.js"></script>
+
+
+    <script>
+        jQuery.ajaxSetup({ headers: {'X-CSRF-TOKEN' : 'd65hVH0D20Jxg03pzf8GXj2wPXRZCV0DSWeqS7Jr' }});
+    </script>
+
+        <script>
+        var moduleConfig = '';
+        moduleConfig = {
+            postReginstrationForm:   "http://controlcenter.local/register",
+            postForgotPasswordForm:  "http://controlcenter.local/password/email"
+        };
+
+        jQuery(document).ready(function()
+        {
+            FTXLogin.init();
+        });
+
+    </script>
+
+<link rel='stylesheet' type='text/css' property='stylesheet' href='//controlcenter.local/_debugbar/assets/stylesheets?v=1514120712'><script type='text/javascript' src='//controlcenter.local/_debugbar/assets/javascript?v=1514120712'></script><script type="text/javascript">
+jQuery.noConflict(true);
+var phpdebugbar = new PhpDebugBar.DebugBar();
+phpdebugbar.addIndicator("php_version", new PhpDebugBar.DebugBar.Indicator({"icon":"code","tooltip":"Version"}), "right");
+phpdebugbar.addTab("messages", new PhpDebugBar.DebugBar.Tab({"icon":"list-alt","title":"Messages", "widget": new PhpDebugBar.Widgets.MessagesWidget()}));
+phpdebugbar.addIndicator("time", new PhpDebugBar.DebugBar.Indicator({"icon":"clock-o","tooltip":"Request Duration"}), "right");
+phpdebugbar.addTab("timeline", new PhpDebugBar.DebugBar.Tab({"icon":"tasks","title":"Timeline", "widget": new PhpDebugBar.Widgets.TimelineWidget()}));
+phpdebugbar.addIndicator("memory", new PhpDebugBar.DebugBar.Indicator({"icon":"cogs","tooltip":"Memory Usage"}), "right");
+phpdebugbar.addTab("exceptions", new PhpDebugBar.DebugBar.Tab({"icon":"bug","title":"Exceptions", "widget": new PhpDebugBar.Widgets.ExceptionsWidget()}));
+phpdebugbar.addIndicator("version", new PhpDebugBar.DebugBar.Indicator({"icon":"github","tooltip":"Version"}), "right");
+phpdebugbar.addIndicator("environment", new PhpDebugBar.DebugBar.Indicator({"icon":"desktop","tooltip":"Environment"}), "right");
+phpdebugbar.addIndicator("locale", new PhpDebugBar.DebugBar.Indicator({"icon":"flag","tooltip":"Current locale"}), "right");
+phpdebugbar.addTab("request", new PhpDebugBar.DebugBar.Tab({"icon":"tags","title":"Request", "widget": new PhpDebugBar.Widgets.VariableListWidget()}));
+phpdebugbar.addTab("views", new PhpDebugBar.DebugBar.Tab({"icon":"leaf","title":"Views", "widget": new PhpDebugBar.Widgets.TemplatesWidget()}));
+phpdebugbar.addTab("route", new PhpDebugBar.DebugBar.Tab({"icon":"share","title":"Route", "widget": new PhpDebugBar.Widgets.VariableListWidget()}));
+phpdebugbar.addIndicator("currentroute", new PhpDebugBar.DebugBar.Indicator({"icon":"share","tooltip":"Route"}), "right");
+phpdebugbar.addTab("queries", new PhpDebugBar.DebugBar.Tab({"icon":"database","title":"Queries", "widget": new PhpDebugBar.Widgets.LaravelSQLQueriesWidget()}));
+phpdebugbar.addTab("emails", new PhpDebugBar.DebugBar.Tab({"icon":"inbox","title":"Mails", "widget": new PhpDebugBar.Widgets.MailsWidget()}));
+phpdebugbar.addTab("session", new PhpDebugBar.DebugBar.Tab({"icon":"archive","title":"Session", "widget": new PhpDebugBar.Widgets.VariableListWidget()}));
+phpdebugbar.setDataMap({
+"php_version": ["php.version", ],
+"messages": ["messages.messages", []],
+"messages:badge": ["messages.count", null],
+"time": ["time.duration_str", '0ms'],
+"timeline": ["time", {}],
+"memory": ["memory.peak_usage_str", '0B'],
+"exceptions": ["exceptions.exceptions", []],
+"exceptions:badge": ["exceptions.count", null],
+"version": ["laravel.version", ],
+"environment": ["laravel.environment", ],
+"locale": ["laravel.locale", ],
+"request": ["request", {}],
+"views": ["views", []],
+"views:badge": ["views.nb_templates", 0],
+"route": ["route", {}],
+"currentroute": ["route.uri", ],
+"queries": ["queries", []],
+"queries:badge": ["queries.nb_statements", 0],
+"emails": ["swiftmailer_mails.mails", []],
+"emails:badge": ["swiftmailer_mails.count", null],
+"session": ["session", {}]
+});
+phpdebugbar.restoreState();
+phpdebugbar.ajaxHandler = new PhpDebugBar.AjaxHandler(phpdebugbar, undefined, true);
+phpdebugbar.ajaxHandler.bindToXHR();
+phpdebugbar.setOpenHandler(new PhpDebugBar.OpenHandler({"url":"http:\/\/controlcenter.local\/_debugbar\/open"}));
+phpdebugbar.addDataSet({"__meta":{"id":"X600531602f3b3cb1c60893ccb8dc3b3e","datetime":"2018-07-12 14:28:04","utime":1531405684.406297,"method":"GET","uri":"\/","ip":"192.192.7.51"},"php":{"version":"7.1.14-1+ubuntu16.04.1+deb.sury.org+1","interface":"apache2handler"},"messages":{"count":0,"messages":[]},"time":{"start":1531405684.304,"end":1531405684.406315,"duration":0.10231518745422363,"duration_str":"102.32ms","measures":[{"label":"Booting","start":1531405684.304,"relative_start":0,"end":1531405684.386901,"relative_end":1531405684.386901,"duration":0.0829010009765625,"duration_str":"82.9ms","params":[],"collector":null},{"label":"Application","start":1531405684.38047,"relative_start":0.07647013664245605,"end":1531405684.406317,"relative_end":1.9073486328125e-6,"duration":0.02584695816040039,"duration_str":"25.85ms","params":[],"collector":null}]},"memory":{"peak_usage":9647960,"peak_usage_str":"9.2MB"},"exceptions":{"count":0,"exceptions":[]},"laravel":{"version":"5.4.30","environment":"local","locale":"en"},"request":{"$_GET":"[]","$_POST":"[]","$_COOKIE":"[]","$_SERVER":"array:92 [\n  \"HTTP_HOST\" => \"controlcenter.local\"\n  \"HTTP_USER_AGENT\" => \"Mozilla\/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko\/20100101 Firefox\/49.0\"\n  \"HTTP_REFERER\" => \"http:\/\/www.google.com\/\"\n  \"CONTENT_TYPE\" => \"text\/html; charset=utf-8\"\n  \"HTTP_ACCEPT\" => \"*\/*\"\n  \"PATH\" => \"\/usr\/local\/sbin:\/usr\/local\/bin:\/usr\/sbin:\/usr\/bin:\/sbin:\/bin\"\n  \"SERVER_SIGNATURE\" => \"<address>Apache\/2.4.18 (Ubuntu) Server at controlcenter.local Port 80<\/address>\\n\"\n  \"SERVER_SOFTWARE\" => \"Apache\/2.4.18 (Ubuntu)\"\n  \"SERVER_NAME\" => \"controlcenter.local\"\n  \"SERVER_ADDR\" => \"192.192.7.51\"\n  \"SERVER_PORT\" => \"80\"\n  \"REMOTE_ADDR\" => \"192.192.7.51\"\n  \"DOCUMENT_ROOT\" => \"\/var\/www\/html\/ControlCenter\/public\"\n  \"REQUEST_SCHEME\" => \"http\"\n  \"CONTEXT_PREFIX\" => \"\"\n  \"CONTEXT_DOCUMENT_ROOT\" => \"\/var\/www\/html\/ControlCenter\/public\"\n  \"SERVER_ADMIN\" => \"webmaster@localhost\"\n  \"SCRIPT_FILENAME\" => \"\/var\/www\/html\/ControlCenter\/public\/index.php\"\n  \"REMOTE_PORT\" => \"34478\"\n  \"GATEWAY_INTERFACE\" => \"CGI\/1.1\"\n  \"SERVER_PROTOCOL\" => \"HTTP\/1.1\"\n  \"REQUEST_METHOD\" => \"GET\"\n  \"QUERY_STRING\" => \"\"\n  \"REQUEST_URI\" => \"\/\"\n  \"SCRIPT_NAME\" => \"\/index.php\"\n  \"PHP_SELF\" => \"\/index.php\"\n  \"REQUEST_TIME_FLOAT\" => 1531405684.304\n  \"REQUEST_TIME\" => 1531405684\n  \"APP_ENV\" => \"local\"\n  \"APP_DEBUG\" => \"true\"\n  \"APP_URL\" => \"http:\/\/controlcenter.dev\"\n  \"APP_LOCALE\" => \"en\"\n  \"APP_FALLBACK_LOCALE\" => \"en\"\n  \"APP_LOCALE_PHP\" => \"en_US\"\n  \"APP_KEY\" => \"base64:+p8dB6ifp9FGqNP9gXXoBEYD44EYH0NMxTGAwaNSKxo=\"\n  \"DB_CONNECTION\" => \"mysql\"\n  \"DB_HOST\" => \"localhost\"\n  \"DB_PORT\" => \"3306\"\n  \"DB_DATABASE\" => \"cc_sudhir\"\n  \"DB_USERNAME\" => \"root\"\n  \"DB_PASSWORD\" => \"root\"\n  \"MAIL_DRIVER\" => \"mail\"\n  \"CACHE_DRIVER\" => \"fcache\"\n  \"SESSION_DRIVER\" => \"file\"\n  \"QUEUE_DRIVER\" => \"database\"\n  \"REDIS_HOST\" => \"127.0.0.1\"\n  \"REDIS_PASSWORD\" => \"null\"\n  \"REDIS_PORT\" => \"6379\"\n  \"MAIL_HOST\" => \"mailtrap.io\"\n  \"MAIL_PORT\" => \"2525\"\n  \"MAIL_USERNAME\" => \"null\"\n  \"MAIL_PASSWORD\" => \"null\"\n  \"MAIL_ENCRYPTION\" => \"null\"\n  \"FACEBOOK_CLIENT_ID\" => \"\"\n  \"FACEBOOK_CLIENT_SECRET\" => \"\"\n  \"FACEBOOK_REDIRECT\" => \"\"\n  \"BITBUCKET_CLIENT_ID\" => \"\"\n  \"BITBUCKET_CLIENT_SECRET\" => \"\"\n  \"BITBUCKET_REDIRECT\" => \"\"\n  \"GITHUB_CLIENT_ID\" => \"\"\n  \"GITHUB_CLIENT_SECRET\" => \"\"\n  \"GITHUB_REDIRECT\" => \"\"\n  \"GOOGLE_CLIENT_ID\" => \"\"\n  \"GOOGLE_CLIENT_SECRET\" => \"\"\n  \"GOOGLE_REDIRECT\" => \"\"\n  \"LINKEDIN_CLIENT_ID\" => \"\"\n  \"LINKEDIN_CLIENT_SECRET\" => \"\"\n  \"LINKEDIN_REDIRECT\" => \"\"\n  \"TWITTER_REDIRECT\" => \"\"\n  \"JWT_SECRET\" => \"w120Y2UvxBMeQc5ioymnZ95RSQqnTSWj\"\n  \"DB_HOST_SEMANTIC\" => \"localhost\"\n  \"DB_PORT_SEMANTIC\" => \"3306\"\n  \"DB_DATABASE_SEMANTIC\" => \"controlcenter\"\n  \"DB_USERNAME_SEMANTIC\" => \"root\"\n  \"DB_PASSWORD_SEMANTIC\" => \"root\"\n  \"DB_HOST_HISTORICAL\" => \"127.0.0.1\"\n  \"DB_PORT_HISTORICAL\" => \"3306\"\n  \"DB_DATABASE_HISTORICAL\" => \"controlcenter\"\n  \"DB_USERNAME_HISTORICAL\" => \"root\"\n  \"DB_PASSWORD_HISTORICAL\" => \"root\"\n  \"DB_HOST_LOYALTY\" => \"localhost\"\n  \"DB_PORT_LOYALTY\" => \"3306\"\n  \"DB_DATABASE_LOYALTY\" => \"loyalty\"\n  \"DB_USERNAME_LOYALTY\" => \"root\"\n  \"DB_PASSWORD_LOYALTY\" => \"root\"\n  \"LOYALTY_URL\" => \"http:\/\/ftxloyalty.local\"\n  \"DB_DEFAULT\" => \"mysql\"\n  \"DB_HOST_MIGRATION\" => \"localhost\"\n  \"DB_PORT_MIGRATION\" => \"3306\"\n  \"DB_DATABASE_MIGRATION\" => \"cc_migration\"\n  \"DB_USERNAME_MIGRATION\" => \"root\"\n  \"DB_PASSWORD_MIGRATION\" => \"root\"\n]"},"views":{"nb_templates":4,"templates":[{"name":"frontend.auth.login (resources\/views\/frontend\/auth\/login.blade.php)","param_count":1,"params":["socialite_links"],"type":"blade"},{"name":"includes.partials.messages (resources\/views\/includes\/partials\/messages.blade.php)","param_count":9,"params":["obLevel","__env","app","errors","socialite_links","app_name","logged_user","google_fonts","fixed"],"type":"blade"},{"name":"frontend.auth.passwords.email (resources\/views\/frontend\/auth\/passwords\/email.blade.php)","param_count":8,"params":["obLevel","__env","app","errors","socialite_links","app_name","logged_user","google_fonts"],"type":"blade"},{"name":"client.layouts.base-client (resources\/views\/client\/layouts\/base-client.blade.php)","param_count":8,"params":["obLevel","__env","app","errors","socialite_links","app_name","logged_user","google_fonts"],"type":"blade"}]},"route":{"uri":"GET \/","middleware":"web, guest","controller":"FTX\\Http\\Controllers\\Auth\\AuthController@showLoginForm","namespace":"FTX\\Http\\Controllers\\Auth","prefix":null,"where":[],"as":"auth.login","file":"app\/Services\/Access\/Traits\/AuthenticatesUsers.php:28-31"},"queries":{"nb_statements":0,"nb_failed_statements":0,"accumulated_duration":0,"accumulated_duration_str":"0\u03bcs","statements":[]},"swiftmailer_mails":{"count":0,"mails":[]},"session":{"_token":"d65hVH0D20Jxg03pzf8GXj2wPXRZCV0DSWeqS7Jr","PHPDEBUGBAR_STACK_DATA":"[]"}}, "X600531602f3b3cb1c60893ccb8dc3b3e");
+
+</script>
+</body>
+</html>
